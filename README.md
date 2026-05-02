@@ -43,7 +43,7 @@ Fun Fact    : I build ML models AND jewellery stores
 </td>
 <td valign="middle" width="40%" align="center" style="padding:0;">
 
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="100%" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Coding GIF"/>
 
 </td>
 </tr>
