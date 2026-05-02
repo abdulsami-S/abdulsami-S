@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S)
 [![Gmail](https://img.shields.io/badge/workwithsami07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=abdulsami-S&color=7c3aed&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
@@ -53,28 +55,17 @@ Fun Fact    : I build ML models AND jewellery stores
 
 ---
 
-## 🌱 Currently Learning
+## 🔨 Currently Building & Learning
 
 <div align="left">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-A78BFA?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-F7931E?style=for-the-badge&logo=leetcode&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-<div align="center">
 
 | 🔭 Area | 📌 Details |
 |:-------:|-----------|
 | 🌐 Web Development | Building full-stack web applications |
-| 💼 Career | Actively seeking internships & full-time opportunities |
+| ☁️ Cloud & DevOps | Learning Docker & AWS |
+| 📐 TypeScript | Leveling up JS with strong typing |
+| 🏗️ System Design | Studying scalable architecture patterns |
+| 💼 Career | Actively seeking internships & full-time roles |
 
 </div>
 
@@ -206,16 +197,6 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kv24rbybp5wlnemk5yq3tjvcpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kv24rbybp5wlnemk5yq3tjvcpm&redirect=true)
-
-</div>
-
----
-
 ## 💬 Dev Quote of the Day
 
 <div align="center">
@@ -226,19 +207,7 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 ---
 
-## 🌍 Visitor Map
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=abdulsami-S&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdulsami-S&count_bg=%237C3AED&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Visitors&edge_flat=false"/></a>
-
-</div>
-
----
-
-## 🤝 Open to Collaborate!
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -246,22 +215,8 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 <br/>
 
-> 🚀 I am actively looking for **SDE / Full-Stack / AI internship** opportunities.
+> 🚀 Actively looking for **SDE / Full-Stack / AI internship** opportunities.
 > Got an exciting project or opening? **Let's build something amazing together!**
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami)
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-> 💼 **Open to internships and full-time opportunities.**
-> If you're building something exciting — **let's talk!**
 
 <br/>
 
