@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Shaik%20Abdul%20Sami&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20IIIT%20Dharwad%20%2727&descAlignY=60&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=👋+Hi+there%2C+I'm+Abdul+Sami!;🚀+Building+Scalable+Full-Stack+Web+Apps;⚙️+Crafting+Robust+Backend+Systems;🤖+AI+%26+Geospatial+Systems+Builder;💼+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=99999&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=👋+Hi+there%2C+I'm+Abdul+Sami!" alt="Greeting" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Building+Scalable+Full-Stack+Web+Apps;⚙️+Crafting+Robust+Backend+Systems;🤖+AI+%26+Geospatial+Systems+Builder;💼+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
 
 <br/>
 
@@ -43,11 +45,25 @@ Fun Fact    : I build ML models AND jewellery stores
 </td>
 <td valign="middle" width="40%" align="center" style="padding:0;">
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="100%" alt="Coding GIF"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="left">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-A78BFA?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-F7931E?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
 
 ---
 
@@ -119,7 +135,7 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -172,7 +188,7 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 ## 🌐 Most Used Languages
 
-<div align="center">
+<div align="left">
 
 <img height="200px" src="https://github-readme-stats-beige-one-21.vercel.app/api/top-langs/?username=abdulsami-S&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
 
@@ -185,6 +201,56 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsami-S&bg_color=0D1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Abdul%20Sami's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31kv24rbybp5wlnemk5yq3tjvcpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kv24rbybp5wlnemk5yq3tjvcpm&redirect=true)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=abdulsami-S&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdulsami-S&count_bg=%237C3AED&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Visitors&edge_flat=false"/></a>
+
+</div>
+
+---
+
+## 🤝 Open to Collaborate!
+
+<div align="center">
+
+![banner](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Full--Time%20Roles-7c3aed?style=for-the-badge&logoColor=white)
+
+<br/>
+
+> 🚀 I am actively looking for **SDE / Full-Stack / AI internship** opportunities.
+> Got an exciting project or opening? **Let's build something amazing together!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami)
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
 
 </div>
 
