@@ -12,8 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S)
 [![Gmail](https://img.shields.io/badge/workwithsami07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdulsami-S&color=7c3aed&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 ---
@@ -52,22 +50,6 @@ Fun Fact    : I build ML models AND jewellery stores
 </td>
 </tr>
 </table>
-
----
-
-## 🔨 Currently Building & Learning
-
-<div align="left">
-
-| 🔭 Area | 📌 Details |
-|:-------:|-----------|
-| 🌐 Web Development | Building full-stack web applications |
-| ☁️ Cloud & DevOps | Learning Docker & AWS |
-| 📐 TypeScript | Leveling up JS with strong typing |
-| 🏗️ System Design | Studying scalable architecture patterns |
-| 💼 Career | Actively seeking internships & full-time roles |
-
-</div>
 
 ---
 
@@ -161,6 +143,12 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 🌱 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-A78BFA?style=for-the-badge&logoColor=white)
+
 </div>
 
 ---
@@ -207,11 +195,11 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-![banner](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Full--Time%20Roles-7c3aed?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Full--Time%20Roles-7c3aed?style=for-the-badge&logoColor=white)
 
 <br/>
 
