@@ -1,16 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=Shaik%20Abdul%20Sami&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20IIIT%20Dharwad%20'27&descAlignY=60&descSize=19&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=250&section=header&text=Shaik%20Abdul%20Sami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20IIIT%20Dharwad%20'27&descAlignY=60&descSize=20&animation=twinkling"/>
 
-<!-- Typing SVG - reliable source -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Building+Full-Stack+Web+Apps;🤖+Crafting+AI-Powered+Systems;🌍+Geospatial+%26+ML+Enthusiast;🎓+Pre-Final+Year+CSE+%40+IIIT+Dharwad;💼+Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Building+Scalable+Full-Stack+Web+Apps;💻+Passionate+about+Software+Engineering;⚙️+Crafting+Robust+Backend+Systems;🎓+Pre-Final+Year+CSE+%40+IIIT+Dharwad;💼+Open+to+SDE+%26+Full-Stack+Internships!" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=abdulsami-S&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/abdulsami-S)
+<a href="https://linkedin.com/in/abdul-sami">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/abdulsami-S">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:workwithsami07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdulsami-S&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -24,31 +32,39 @@
 
 ```python
 class AbdulSami:
-    name        = "Shaik Abdul Sami"
-    college     = "IIIT Dharwad, Karnataka"
-    degree      = "B.Tech CSE (2023 – 2027)"
-    role        = ["Full Stack Developer",
-                   "AI & ML Enthusiast",
-                   "Open Source Contributor"]
+    def __init__(self):
+        self.name      = "Shaik Abdul Sami"
+        self.education = "B.Tech CSE @ IIIT Dharwad (2023-2027)"
+        self.roles     = [
+            "Software Engineer",
+            "Full Stack Developer",
+            "Tech Enthusiast"
+        ]
 
-    tech = {
-      "languages" : ["Python", "JS", "C++", "SQL"],
-      "frontend"  : ["React.js", "Leaflet.js", "HTML5"],
-      "backend"   : ["Flask", "Node.js", "REST APIs"],
-      "ml_data"   : ["Scikit-learn", "Pandas", "NumPy"],
-      "databases" : ["MySQL", "SQLite", "Firebase"],
-      "tools"     : ["Git", "Postman", "Linux"],
-    }
+    def current_focus(self):
+        return "🔭 Building Scalable Web Apps"
 
-    currently   = "🔭 Building GeoSafe AI v2"
-    looking_for = "💼 Internship in Full-Stack / AI"
-    fun_fact    = "I build ML models AND jewellery 💎🤖"
+    def open_to(self):
+        return "💼 SDE / Full-Stack Internships"
+
+    def tech_stack(self):
+        return {
+            "languages" : ["Python", "JavaScript", "C++", "SQL"],
+            "frontend"  : ["React.js", "Leaflet.js", "HTML5", "CSS3"],
+            "backend"   : ["Flask", "Node.js", "REST APIs"],
+            "ml_data"   : ["Scikit-learn", "Pandas", "NumPy"],
+            "databases" : ["MySQL", "SQLite", "Firebase"],
+            "tools"     : ["Git", "Postman", "Linux", "VS Code"],
+        }
+
+    def fun_fact(self):
+        return "💎 I build ML models AND jewellery stores 🤖"
 ```
 
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
 </td>
 </tr>
@@ -60,7 +76,7 @@ class AbdulSami:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulsami-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdulsami-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
 
 </div>
 
@@ -112,7 +128,7 @@ class AbdulSami:
   </a>
 </p>
 <p><strong>Python · Flask · GeoPandas · Scikit-learn · Leaflet.js</strong></p>
-<p>Full-stack geospatial safety app with Random Forest classifier achieving <strong>~90% accuracy</strong>. Flask REST API delivers results in <strong>under 500ms</strong>.</p>
+<p>Full-stack geospatial safety app with Random Forest classifier achieving <strong>~90% accuracy</strong>. REST API with spatial indexing delivers results in <strong>under 500ms</strong>.</p>
 </td>
 <td width="50%">
 <h3 align="center">🔬 NLP Parsing Comparison</h3>
@@ -122,7 +138,7 @@ class AbdulSami:
   </a>
 </p>
 <p><strong>Python · spaCy · NLTK · Stanford NLP</strong></p>
-<p>Benchmarking framework comparing 3 major NLP libraries across parsing tasks with structured visualizations.</p>
+<p>Benchmarking framework comparing 3 major NLP libraries across parsing tasks with structured visualizations to guide library selection.</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +199,7 @@ class AbdulSami:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -198,15 +214,19 @@ class AbdulSami:
 
 <div align="center">
 
-> 💼 I'm actively looking for **internship opportunities** in Full-Stack Development & AI.
-> If you're building something cool — **let's talk!**
+> 💼 Actively seeking **SDE / Full-Stack internship opportunities**.
+> If you're building something exciting — **let's talk!**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami)
-[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
+<a href="https://linkedin.com/in/abdul-sami">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:workwithsami07@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
