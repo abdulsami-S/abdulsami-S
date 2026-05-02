@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Shaik%20Abdul%20Sami&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20IIIT%20Dharwad%20%2727&descAlignY=60&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=👋+Hi+there%2C+I'm+Abdul+Sami!;🚀+Building+Scalable+Full-Stack+Web+Apps;⚙️+Crafting+Robust+Backend+Systems;🤖+AI+%26+Geospatial+Systems+Builder;💼+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=👋+Hi+there%2C+I'm+Abdul+Sami!;🚀+Building+Scalable+Full-Stack+Web+Apps;⚙️+Crafting+Robust+Backend+Systems;🤖+AI+%26+Geospatial+Systems+Builder;💼+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
 
 <br/>
 
