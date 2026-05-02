@@ -60,20 +60,33 @@ Fun Fact    : I build ML models AND jewellery stores
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 GeoSafe AI
-[![Repo](https://img.shields.io/badge/View%20Repo-GeoSafe%20AI-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S/GeoSafe-AI)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=80&text=🌍%20GeoSafe%20AI&fontSize=26&fontColor=A78BFA&animation=twinkling" width="100%" />
+</div>
 
-`Python` `Flask` `GeoPandas` `Scikit-learn` `Leaflet.js`
+[![Repo](https://img.shields.io/badge/View%20Repo-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulsami-S/GeoSafe-AI)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 Full-stack geospatial safety app with Random Forest classifier achieving **~90% accuracy**. REST API with spatial indexing delivers results in **under 500ms**.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 NLP Parsing Comparison
-[![Repo](https://img.shields.io/badge/View%20Repo-NLP%20Parsing-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S/nlp-parsing-comparison)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=80&text=🔬%20NLP%20Parsing&fontSize=26&fontColor=A78BFA&animation=twinkling" width="100%" />
+</div>
 
-`Python` `spaCy` `NLTK` `Stanford NLP`
+[![Repo](https://img.shields.io/badge/View%20Repo-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulsami-S/nlp-parsing-comparison)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![NLTK](https://img.shields.io/badge/NLTK-3A7D44?style=flat-square)
+![Stanford NLP](https://img.shields.io/badge/Stanford%20NLP-8C1515?style=flat-square)
 
 Benchmarking framework comparing 3 major NLP libraries across parsing tasks with structured visualizations to guide library selection.
 
@@ -82,20 +95,32 @@ Benchmarking framework comparing 3 major NLP libraries across parsing tasks with
 <tr>
 <td width="50%" valign="top">
 
-### 💎 My-Jewellery
-[![Repo](https://img.shields.io/badge/View%20Repo-My%20Jewellery-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S/My-Jewellery)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=80&text=💎%20My-Jewellery&fontSize=26&fontColor=A78BFA&animation=twinkling" width="100%" />
+</div>
 
-`JavaScript` `HTML` `CSS` `Node.js`
+[![Repo](https://img.shields.io/badge/View%20Repo-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulsami-S/My-Jewellery)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 Responsive mobile-first e-commerce platform with product browsing, category filtering and persistent cart — built with vanilla JS.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎉 EventEase
-[![Repo](https://img.shields.io/badge/View%20Repo-EventEase-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S/eventease)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=80&text=🎉%20EventEase&fontSize=26&fontColor=A78BFA&animation=twinkling" width="100%" />
+</div>
 
-`JavaScript` `HTML` `CSS` `Firebase`
+[![Repo](https://img.shields.io/badge/View%20Repo-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulsami-S/eventease)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 Full-stack event management app with real-time Firebase DB, supporting event creation, registration and attendee tracking.
 
