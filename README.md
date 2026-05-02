@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Shaik%20Abdul%20Sami&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20IIIT%20Dharwad%20%2727&descAlignY=60&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+Scalable+Full-Stack+Web+Apps;⚙️+Crafting+Robust+Backend+Systems;💎+From+GeoSpatial+AI+to+Jewellery+Stores;💼+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+Scalable+Full-Stack+Web+Apps;Crafting+Robust+Backend+Systems;Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
 
 <br/>
 
@@ -20,35 +20,24 @@
 <tr>
 <td valign="top" width="60%">
 
-```python
-class AbdulSami:
-    def __init__(self):
-        self.name      = "Shaik Abdul Sami"
-        self.education = "B.Tech CSE @ IIIT Dharwad (2023–2027)"
-        self.location  = "India 🇮🇳"
-        self.roles     = [
-            "Full Stack Developer",
-            "Software Engineer",
-        ]
+```yaml
+Name        : Shaik Abdul Sami
+Education   : B.Tech CSE @ IIIT Dharwad (2023-2027)
+Location    : India
+Role        : Full Stack Developer & Software Engineer
 
-    def current_focus(self):
-        return [
-            "🌐 Building Web Applications",
-            "💼 Seeking Internships & Full-Time Roles",
-        ]
+Currently   :
+  - Building Web Applications
+  - Seeking Internships & Full-Time Roles
 
-    def tech_stack(self):
-        return {
-            "languages" : ["Python", "JavaScript", "C++", "SQL"],
-            "frontend"  : ["React.js", "Leaflet.js", "HTML5", "CSS3"],
-            "backend"   : ["Flask", "Node.js", "REST APIs"],
-            "ml_data"   : ["Scikit-learn", "Pandas", "NumPy"],
-            "databases" : ["MySQL", "SQLite", "Firebase"],
-            "tools"     : ["Git", "Postman", "Linux", "VS Code"],
-        }
+Languages   : Python, JavaScript, C++, SQL
+Frontend    : React.js, Leaflet.js, HTML5, CSS3
+Backend     : Flask, Node.js, REST APIs
+ML & Data   : Scikit-learn, Pandas, NumPy
+Databases   : MySQL, SQLite, Firebase
+Tools       : Git, Postman, Linux, VS Code
 
-    def fun_fact(self):
-        return "💎 I build ML models AND jewellery stores 🤖"
+Fun Fact    : I build ML models AND jewellery stores
 ```
 
 </td>
@@ -173,9 +162,9 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=abdulsami-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsami-S&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=abdulsami-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" />
+&nbsp;
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsami-S&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&dates=ffffff" />
 
 </div>
 
@@ -185,7 +174,7 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsami-S&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsami-S&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
 
 </div>
 
