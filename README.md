@@ -212,7 +212,13 @@ Full-stack event management app with real-time Firebase DB, supporting event cre
 
 ---
 
+## 💬 Dev Quote of the Day
 
+<div align="left">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
