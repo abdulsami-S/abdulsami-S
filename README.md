@@ -6,11 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Building+Scalable+Full-Stack+Web+Apps;⚙️+Crafting+Robust+Backend+Systems;🤖+AI+%26+Geospatial+Systems+Builder;💼+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
 
-<br/>
+<!-- <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-sami07)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsami-S)
-[![Gmail](https://img.shields.io/badge/workwithsami07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com)
+[![Gmail](https://img.shields.io/badge/workwithsami07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithsami07@gmail.com) -->
 
 </div>
 
